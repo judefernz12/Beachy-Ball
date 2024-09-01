@@ -1,2 +1,2 @@
 # Beachy-Ball
-A simple android game
+A simple object tackling game built for android.
